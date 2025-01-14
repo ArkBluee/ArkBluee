@@ -1,5 +1,3 @@
-Skills Overview:
-
 ## Skills Overview
 
 - **Excel**: Intermediate proficiency  
