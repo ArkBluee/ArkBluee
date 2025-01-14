@@ -1,8 +1,11 @@
 Skills Overview:
 
-Excel: Intermediate skills
-SQL: Entry-level
-Tableau: Entry-level
-Python: Data cleaning expertise
+## Skills Overview
+
+- **Excel**: Intermediate proficiency  
+- **SQL**: Fundamental understanding knowledge  
+- **Python**: Experienced in data cleaning and analysis
+- **Tableau**: Entry-level data visualizaiton
+
 
 Note: Currently building my profile to showcase more diverse projects and skills.
