@@ -1,9 +1,8 @@
 ## Skills Overview
 
-- **Excel**: Intermediate proficiency  
-- **SQL**: Fundamental understanding knowledge  
-- **Python**: Experienced in data cleaning and analysis
-- **Tableau**: Entry-level data visualizaiton
-
+- **Excel**
+- **SQL**
+- **Python**
+- **Tableau**
 
 Note: Currently building my profile to showcase more diverse projects and skills.
