@@ -1,8 +1,6 @@
 ## Skills Overview
 
-- **Excel**
+- **Microsoft Excel**
 - **SQL**
 - **Python**
-- **Tableau**
-
-Note: Currently building my profile to showcase more diverse projects and skills.
+- **Microsoft Power BI**
