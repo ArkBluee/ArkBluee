@@ -28,7 +28,7 @@ Hi! I'm a Computer Science graduate passionate about turning data into actionabl
 ### 🎯 Goals
 
 * 📈 Build more end-to-end data projects
-* 🧠 Apply EDA, SQL, and visualization skills in industry
+* 🧠 Apply analytics skills in industry
 * 🤝 Land an associate data analyst role
 
 ---
