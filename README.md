@@ -1,6 +1,6 @@
 ## 💼 Kim Andrei Melgar — Data Analyst
 
-Hi! I'm a Computer Science graduate passionate about turning data into actionable insights. I specialize in **data cleaning**, **exploratory analysis**, and **dashboard reporting** using Python, SQL, Excel, and Power BI.
+Hi! I'm a Computer Science graduate who enjoys uncovering the *why* behind the numbers. I turn raw data into insights through data cleaning, root-cause analysis, and clear dashboard reporting using Python, SQL, Excel, and Power BI.
 
 ---
 
