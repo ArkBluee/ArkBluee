@@ -1,4 +1,4 @@
-## 💼 Kim Andrei Melgar — Associate Data Analyst
+## 💼 Kim Andrei Melgar — Data Analyst
 
 Hi! I'm a Computer Science graduate passionate about turning data into actionable insights. I specialize in **data cleaning**, **exploratory analysis**, and **dashboard reporting** using Python, SQL, Excel, and Power BI.
 
