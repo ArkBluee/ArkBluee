@@ -1,16 +1,19 @@
-<h1 align="center">Hi! I'm Kim Andrei Melgar</h1>
-<h3 align="center">Turning raw data into insights that drive decisions</h3>
+<h1 align="center">Hello!</h1>
+<h3 align="center">I'm Kim Andrei Melgar — a Data Analyst who loves uncovering the “why” behind the numbers.</h3>
 
 ###
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=sql" height="45" alt="SQL" />
-  <img src="https://skillicons.dev/icons?i=excel" height="45" alt="Excel" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="Power BI" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=excel" height="60" alt="excel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powerbi" height="60" alt="powerbi logo" />
+</div>
 
----
+###
 
 ### 🧰 Tools & Skills
 
@@ -26,45 +29,47 @@
 **[📦 E-Commerce Performance Analysis](https://github.com/ArkBluee/ecommerce-performance-analysis)**  
 🔍 Investigated underperforming product categories using SQL, Python, and Power BI  
 📊 End-to-end flow: SQL data cleaning ➝ Python analysis ➝ Power BI dashboard  
-📄 Delivered a clean [PDF report](https://github.com/ArkBluee/ecommerce-performance-analysis/blob/main/report/E-Commerce_Performance_Analysis_Report.pdf)
+📄 Final Output: [PDF report](https://github.com/ArkBluee/ecommerce-performance-analysis/blob/main/report/E-Commerce_Performance_Analysis_Report.pdf)
 
 **[🛒 Sales Data Analysis Project](https://github.com/ArkBluee/sales-data-analysis-project)**  
 🧼 Cleaned and explored US e-commerce data  
 📈 Visualized insights using Python & Power BI  
-📄 Created a detailed [PDF report](https://github.com/ArkBluee/sales-data-analysis-project/blob/main/reports/sales_analysis_report.pdf)  
+📄 Final Output: [PDF report](https://github.com/ArkBluee/sales-data-analysis-project/blob/main/reports/sales_analysis_report.pdf)  
 
 ---
 
 ### 🎯 Goals
 
 - 🔄 Build more end-to-end analytics projects  
-- 🧠 Apply skills in real-world business cases  
-- 💼 Land a role as a Data Analyst  
+- 🧠 Apply data skills to real business cases  
+- 💼 Land a Data Analyst role  
 
 ---
 
-### 📬 Let's Connect
+### 📬 Contact Me
 
-<p align="left">
+<div align="center">
   <a href="mailto:kimmelgar33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kimmelgar33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email badge" />
   </a>
-  <a href="https://www.linkedin.com/in/kim-melgar-6688981b6">
-    <img src="https://img.shields.io/badge/LinkedIn-KimMelgar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kim-melgar-6688981b6/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin badge" />
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArkBluee&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ArkBluee&theme=dracula&margin-w=8&no-frame=false" height="150" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArkBluee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArkBluee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArkBluee/ArkBluee/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArkBluee/ArkBluee/output/pacman-contribution-graph.svg">
-    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/ArkBluee/ArkBluee/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArkBluee/ArkBluee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArkBluee/ArkBluee/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArkBluee/ArkBluee/output/pacman-contribution-graph.svg">
+</picture>
+
+###
